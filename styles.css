@@ -1,0 +1,13 @@
+*{
+    font-family: sans-serif ;
+   
+}
+
+h1{
+    text-align: center;
+    background-color: beige;
+    border-style: double;
+}
+p{
+    text-align: center;
+}
