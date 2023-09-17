@@ -1,5 +1,5 @@
 *{
-    font-family: cursive;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 h1{
@@ -19,14 +19,16 @@ p{
 
 .container{
     width: auto;
-    margin: auto 20px;
-    display: inline-block;
+    margin: auto 80px;
+    display: block;
+   justify-content: center;
     padding: 40px;
     background-color: rgba(95, 95, 95, 0.267);
 }
 .sub-container{
-    width: 450px;
+    width: 750px;
     padding: 10px;
+    margin: 30px auto ;
     text-align: center;
     background-color: rgba(255, 255, 255, 0.637);
     
