@@ -1,7 +1,5 @@
 *{
     font-family: sans-serif ;
-    
-   
 }
 
 h1{
@@ -9,26 +7,19 @@ h1{
     background-color: beige;
     border-style: double;
     border: 2px solid white;
-    
+}
 
-}
-h4{
-    margin-left: 30px;
-}
 p{
     text-align: center;
     margin-bottom: 20px;
-
 }
 
 li{
     margin-top: 10px;
     margin-bottom: 30px;
-    
-    
 }
+
 img{
-    
     
     border: 3px solid white;
     padding: 5px;
