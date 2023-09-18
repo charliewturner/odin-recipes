@@ -1,17 +1,19 @@
 *{
     font-family: Arial, Helvetica, sans-serif;
+    background-color: rgba(231, 251, 255, 0.377);
 }
 
 h1{
     text-align: center;
-    background-color: beige;
+    background-color: rgba(255, 227, 201, 0.589);
     border-style: double;
-    border: 2px solid white;
+    border: 2px solid rgb(0, 0, 0);
     padding: 5px;
 }
 h4{
     text-align: center;
 }
+
 p{
     text-align: center;
     margin-bottom: 20px;
@@ -20,13 +22,16 @@ p{
 .container{
     width: auto;
     margin: auto 80px;
-    display: block;
-   justify-content: center;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    gap: 40px;
     padding: 40px;
     background-color: rgba(95, 95, 95, 0.267);
 }
+
 .sub-container{
-    width: 750px;
+    width: 550px;
     padding: 10px;
     margin: 30px auto ;
     text-align: center;
